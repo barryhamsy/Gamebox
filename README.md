@@ -40,7 +40,7 @@ The game library will be updated from time to time to include new releases and e
 
 To install **Gamebox_V1**, follow these steps:
 
-1. **Download the Installer**: Visit the [Download Page](http://gameserver.pythonanywhere.com/downloads/GameboxSetup.exe) to download the latest version of the installer.
+1. **Download the Installer**: Visit the [Download Page](https://gameserver.pythonanywhere.com/) to download the latest version of the installer.
 2. **Run the Installer**: Execute the installer and follow the on-screen instructions to choose your installation directory and complete the setup.
 3. **Launch Gamebox_V1**: After installation, you can launch the application from the desktop shortcut or from the installation directory.
 

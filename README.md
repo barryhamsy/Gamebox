@@ -11,8 +11,8 @@
 ## Features
 
 - **SteamID Auto-Detection**: Automatically identifies SteamIDs from the Windows registry, making it easy to associate games with the correct Steam account.
-- **CD Key Verification**: Validates game CD keys and ensures they are correctly linked to the corresponding SteamID, allowing for a smooth addition of games to the Steam library.
-- **Game Library Search and Sorting**: Easily search for games in your library by name and sort the games by their initial alphabet for quick access.
+- **CD Key Verification**: Validates CD keys and ensures they are correctly linked to the corresponding SteamID, allowing for a smooth addition of games to the Steam library.
+- **Game Library Search and Sorting**: Easily search for games in the gamebox library by name and sort the games by their initial alphabet for quick access.
 - **Friendly User Interface**: The application features a simple and intuitive user interface, making it accessible for users of all experience levels.
 - **Steam Manifest Management**: Directly modifies Steam manifests to integrate new games into the Steam library, making them visible and ready for download in the Steam client.
 - **Custom Installer**: A user-friendly installer guides you through the installation process with minimal effort.

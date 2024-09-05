@@ -1,6 +1,7 @@
 # Gamebox by Bear
 
-![Gamebox Logo](https://gameserver.pythonanywhere.com/downloads/GameboxByBear.jpg)
+
+![image](https://github.com/user-attachments/assets/c6c54ef2-3152-429d-ad3e-bda5fb0da5b6)
 
 ## Overview
 

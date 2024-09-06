@@ -47,10 +47,6 @@ To install **Gamebox**, follow these steps:
 
 **Note:** Ensure that Steam tools are installed on your system, as they are necessary for the application to function correctly.
 
-## Contributing
-
-Contributions are welcome! If you have suggestions for new features, bug fixes, or improvements, feel free to fork the repository and submit a pull request. Please ensure your changes align with the project's style and guidelines.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

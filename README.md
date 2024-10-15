@@ -1,7 +1,7 @@
 # Gamebox by Bear
 
+![image](https://github.com/user-attachments/assets/6c8d733d-2c0c-475f-a68e-2dc619fd4762)
 
-![image](https://github.com/user-attachments/assets/c6c54ef2-3152-429d-ad3e-bda5fb0da5b6)
 
 ## Overview
 

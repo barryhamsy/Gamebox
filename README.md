@@ -17,6 +17,9 @@
 - **Game Library Search and Sorting**: Easily search for games in the gamebox library by name and sort the games by their initial alphabet for quick access.
 - **Friendly User Interface**: The application features a simple and intuitive user interface, making it accessible for users of all experience levels.
 - **Steam Manifest Management**: Directly modifies Steam manifests to integrate new games into the Steam library, making them visible and ready for download in the Steam client.
+- **DLC Unlocker**: Unlock DLC Automatically for supported games only.
+- **Steam Auto Crack**: Auto remove steam DRM and tries to unlock DLC and uses Goldberg Emu.
+- **Online-fix**: Direct access to online-fix files that is already tested.
 - **Custom Installer**: A user-friendly installer guides you through the installation process with minimal effort.
 
 ## CD Key Activation

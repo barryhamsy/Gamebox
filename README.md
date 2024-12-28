@@ -27,10 +27,6 @@
 
 To enable the "Add Game to Steam" feature, you must purchase a CD key. The cost of the CD key is **RM50**, and it is the only way to activate this functionality.
 
-## Discord Support
-
-For any assistance or support, you can join our [Discord community](https://discord.gg/kYGk8pYx7j). Our team is available to help you with any issues or questions related to **Gamebox**.
-
 ## Challenges
 
 Developing **Gamebox** involved overcoming several key challenges:
